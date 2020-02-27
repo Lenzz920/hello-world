@@ -1,2 +1,5 @@
 # hello-world
-testing
+
+Hi all,
+
+I'm trying out this project.
